@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:AlexF-1203/collectionr-back.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:AlexF-1203/collectionr-front.git
